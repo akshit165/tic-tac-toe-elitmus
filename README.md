@@ -1,5 +1,5 @@
 # eLitmus - Tic Tac Toe by Akshit Sood
-This game is a part of my project submission for eLitmus Summer Internship Programme
+This game is a part of my project submission for eLitmus Summer Internship Program
 
 You can play it in [here](https://akshit165.github.io/tic-tac-toe-elitmus/), Give it a go!
 
